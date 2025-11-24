@@ -1,0 +1,15 @@
+B001|Harry Potter and the Sorcerer's Stone|J.K. Rowling|1
+B002|The Hobbit|J.R.R. Tolkien|1
+B003|1984|George Orwell|0
+B004|To Kill a Mockingbird|Harper Lee|1
+B005|Pride and Prejudice|Jane Austen|1
+B006|The Great Gatsby|F. Scott Fitzgerald|1
+B007|The Catcher in the Rye|J.D. Salinger|1
+B008|Lord of the Rings|J.R.R. Tolkien|1
+B009|Animal Farm|George Orwell|0
+B010|The Chronicles of Narnia|C.S. Lewis|1
+B011|Brave New World|Aldous Huxley|1
+B012|The Alchemist|Paulo Coelho|1
+B013|The Da Vinci Code|Dan Brown|1
+B014|Angels and Demons|Dan Brown|1
+B015|The Hunger Games|Suzanne Collins|1

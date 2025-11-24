@@ -24,7 +24,7 @@ It allows librarians or administrators to manage books, users, and transactions 
 
 # Files Included
 
-main.cpp — Complete source code
-books.txt — Stored book records
-users.txt — Stored user records
-transactions.txt — Stored transaction history
+main.cpp — Complete source code  
+books.txt — Stored book records  
+users.txt — Stored user records  
+transactions.txt — Stored transaction history  
